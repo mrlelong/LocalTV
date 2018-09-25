@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="c_white">#ffffff</color>
+    <color name="c_red">#E64A19</color>
+    <color name="c_red_">#D3712E</color>
+    <color name="c_brown">#D9B368</color>
+    <color name="c_brown_s">#7B5A1E</color>
+    <color name="c_brown_alpha">#cfD9B368</color>
+    <color name="c_brown_c">#382B24</color>
+    <color name="c_brown_">#D9B368</color>
+    <color name="c_set">#601A00</color>
+    <color name="c_black">#000000</color>
+    <color name="c_sblack">#3B3937</color>
+    <color name="c_gray">#8e8e8e</color>
+    <color name="c_line">#f4f4f4</color>
+    <color name="c_qing">#F1F2EC</color>
+    <color name="c_blue">#0F8DD6</color>
+    <color name="c_alpa">#2f000000</color>
+    <color name="c_alpa_start">#5f000000</color>
+    <color name="c_alpa_end">#00000000</color>
+    <color name="c_alpa_white">#00ffffff</color>
+
+    <color name="c_alpa_login_u">#28ffffff</color>
+    <color name="c_alpa_login_p">#38ffffff</color>
+
+    <color name="c_table_c">#382B24</color>
+    <color name="c_table_tv_u">#807159</color>
+    <color name="c_table_line">#CCBFA4</color>
+    <color name="c_menu_enable">#A3A3A3</color>
+</resources>

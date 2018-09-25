@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/c_line">
+
+
+        <EditText
+            android:id="@+id/et_url"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="30dp"
+            android:textSize="30sp"
+            android:background="@drawable/bg_edit_login"
+            android:hint="服务器地址"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textColor="@color/c_gray"
+            />
+
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="160dp"
+            android:text="连接服务器"
+            android:textColor="@color/c_blue"
+            android:textSize="25sp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:background="@drawable/bg_btn_login"/>
+    </FrameLayout>
+
+</layout>
